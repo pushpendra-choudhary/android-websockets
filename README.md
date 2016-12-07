@@ -1,4 +1,4 @@
-# android-websocket
+# android-websockets
 
 This is an example of how you can interact with WebSockets in android.
 
@@ -11,3 +11,11 @@ This is an example of how you can interact with WebSockets in android.
 **Quick Explanation:**      
 You just need to extend a WebSocketListener class after that you can override methods to send and receive 
 messages(See WebSocketEcho class in this example).
+
+![img](images/demo.gif)
+
+
+
+
+Here I used to ws url(ws://echo.websocket.org) to setup websockets but if you want to see server side code you can check my 
+nodejs based websockets implementation in websockets-nodejs repository.
