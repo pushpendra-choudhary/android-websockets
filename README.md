@@ -17,5 +17,5 @@ messages(See WebSocketEcho class in this example).
 
 
 
-Here I used to ws url(ws://echo.websocket.org) to setup websockets but if you want to see server side code you can check my 
+Here I used ws url(ws://echo.websocket.org) to setup websockets but if you want to see server side code you can check my 
 nodejs based websockets implementation in websockets-nodejs repository.
