@@ -9,9 +9,6 @@ import okhttp3.WebSocket;
 import okhttp3.WebSocketListener;
 import okio.ByteString;
 
-/**
- * Created by crypsis on 7/12/16.
- */
 
 public class WebSocketEcho extends WebSocketListener {
 
