@@ -1,8 +1,5 @@
 package com.example.spartan.websocket;
 
-/**
- * Created by crypsis on 2/12/16.
- */
 
 public class ChatMessage {
 
